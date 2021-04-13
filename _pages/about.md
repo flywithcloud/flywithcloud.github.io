@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-Hi! I am currently a fourth-year PhD student at [National Laboratotry of Pattern Recognition](http://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation](http://www.ia.cas.cn/), Chinese Academy of Sciences, under the supervision of [Zhanyi Hu](http://vision.ia.ac.cn/Faculty/zyhu/index.htm) and co-supervision of [Qiulei Dong](http://vision.ia.ac.cn/Faculty/qldong/index.htm). Previously, I received my B.Eng degree in communication engineering from Wuhan University of Technology in 2017.
+Hi, I am currently a fourth-year PhD student at [National Laboratotry of Pattern Recognition](http://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation](http://www.ia.cas.cn/), Chinese Academy of Sciences, under the supervision of [Zhanyi Hu](http://vision.ia.ac.cn/Faculty/zyhu/index.htm) and co-supervision of [Qiulei Dong](http://vision.ia.ac.cn/Faculty/qldong/index.htm). Previously, I received my B.Eng degree in communication engineering from Wuhan University of Technology in 2017.
 
 My current research interests generally focus on zero-shot learning, domain generalization, generative model, and their applications to vision and multimedia data. I also have a broad interests in disentangled representation learning, causal representation learning, self/semi-supervised learning, and bio-inspired deep learning.
 
@@ -151,5 +151,5 @@ Workshop volunteer of ICPR 2018.
 Personal
 ======
 I have broad interests in reading about philosophy/history/economics.<br/>
-I also love traveling, hiking and many other outdoor activities. Some recent travelling photos are shown below.<br/>
+I also love travelling, hiking and many other outdoor activities. Some recent travelling photos are shared below.<br/>
 <img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 40%;" align="center"/>
