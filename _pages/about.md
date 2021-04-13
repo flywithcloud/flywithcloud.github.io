@@ -108,8 +108,4 @@ Personal
 ======
 I've been snowboarding since 2014 and training Brazilian Jiu-jitsu (柔術) since 2013.<br/>
 I also love traveling, climbing, hiking and many other outdoor activities.<br/>
-I cook hometown food when I'm homesick.<br/>
-I have a beagle and her name is Bagel.<br/>
-<img src="https://yaojieliu.github.io/images/bagel.jpg?raw=true" alt="Photo" style="width: 60%;" align="center"/>
-
 [Fun about CV/ML](https://yaojieliu.github.io/fun)
