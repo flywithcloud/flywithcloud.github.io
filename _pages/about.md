@@ -52,7 +52,7 @@ Recent research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="50%" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
+    <img align="left" width="200" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -109,4 +109,4 @@ Personal
 ======
 I have broad interests in reading about philosophy/history/economics.<br/>
 I also love traveling, hiking and many other outdoor activities. Some recent travelling photos are shown below<br/>
-<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 60%;" align="center"/>
+<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 300;" align="center"/>
