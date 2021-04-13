@@ -52,16 +52,14 @@ Recent research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
-      <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      under review in IEEE TIP, 2020.<br/>
-      [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
-      [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
+      <strong>Semantic-diversity transfer network for generalized zero-shot learning via inner disagreement based OOD detector</strong><br/>
+      <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Under review in Knowledge based system, 2021.<br/>
     </p>
   </div>
 </div>
@@ -70,16 +68,14 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICCV2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>On Disentangling Spoof Traces for Generic Face Anti-Spoofing</strong><br/>
-      <u>Yaojie Liu</u>, Joel Stehouwer, Xiaoming Liu<br/>
-      Accepted by CVPR, 2020.<br/>
-      [<a href="https://arxiv.org/pdf/2007.09273.pdf">PDF</a>]
-      [<a href="https://github.com/yaojieliu/ECCV20-STDN">Code</a>]
+      <strong>Language-Level Semantics Conditioned 3D Point Cloud Segmentation</strong><br/>
+      <u>Bo Liu</u>, Qiulei Dong, Shuang Deng, Zhanyi Hu<br/>
+      Under review in ICCV, 2021.<br/>
     </p>
   </div>
 </div>
@@ -88,14 +84,14 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/icme2021.jpg">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Deep Tree Learning for Zero-shot Face Anti-Spoofing</strong><br/>
-      <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-      Accepted by AAAI, 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
+      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
+      Shuang Deng, <u>Yaojie Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Accepted by ICME, 2021. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
      [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
     </p>
   </div>
