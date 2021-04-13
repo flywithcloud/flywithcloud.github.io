@@ -152,5 +152,5 @@ Workshop volunteer of ICPR 2018.
 Personal
 ======
 I have broad interests in reading about philosophy/history/economics.<br/>
-I also love traveling, hiking and many other outdoor activities. Some recent travelling photos are shown below<br/>
-<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 30%;" align="center"/>
+I also love traveling, hiking and many other outdoor activities. Some recent travelling photos are shown below.<br/>
+<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 50%;" align="center"/>
