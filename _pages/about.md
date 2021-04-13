@@ -12,8 +12,6 @@ About me
 ======
 Hi! I am currently a fourth-year PhD student at [National Laboratotry of Pattern Recognition](http://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation](http://www.ia.cas.cn/), Chinese Academy of Sciences, under the supervision of [Zhanyi Hu](http://vision.ia.ac.cn/Faculty/zyhu/index.htm) and co-supervision of [Qiulei Dong](http://vision.ia.ac.cn/Faculty/qldong/index.htm). Previously, I received my B.Eng degree in communication engineering from Wuhan University of Technology in 2017.
 
-Research interests
-======
 My current research interests generally focus on zero-shot learning, domain generalization, generative model, and their applications to vision and multimedia data. I also have a broad interests in disentangled representation learning, causal representation learning, self/semi-supervised learning, and bio-inspired deep learning.
 
 News
@@ -54,14 +52,14 @@ Research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
+    <img align="left" width="25%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2020.<br/>
+      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.<br/>
       [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
       [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
     </p>
@@ -72,7 +70,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+    <img align="left" width="25%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -90,7 +88,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
+    <img align="left" width="25%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
