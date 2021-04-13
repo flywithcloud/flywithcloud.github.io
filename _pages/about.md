@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,247 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+About me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi! I am currently a fourth-year PhD student at [National Laboratotry of Pattern Recognition](http://nlpr-web.ia.ac.cn/cn/index.html), [Institute of Automation](http://www.ia.cas.cn/), Chinese Academy of Sciences, under the supervision of [Zhanyi Hu](http://vision.ia.ac.cn/Faculty/zyhu/index.htm) and co-supervision of [Qiulei Dong](http://vision.ia.ac.cn/Faculty/qldong/index.htm). Previously, I received my B.Eng degree in communication engineering from Wuhan University of Technology in 2017.
+My current research interests generally focus on zero-shot learning, domain generalization, generative model, and their applications to vision and multimedia data. I also have a broad interests in disentangled representation learning, causal representation learning, and self/semi-supervised learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
+* [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
+* [2020/01/15] &nbsp; I give a talk at Sichuan University.
+* [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
+* [2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on dataset access management via Google Forms/Spreadsheet.
+* [2019/06/18] &nbsp; Our paper "Deep Tree Learning for Zero-shot Face Anti-Spoofing" is the best paper finalist in CVPR 2019.
+* [2019/05/24] &nbsp; [SiW Database](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html) now is open to industrial institutes for research purposes.
+* [2019/04/15] &nbsp; One paper accepted to CVPR 2019 as Oral Presentation.
+* [2019/04/05] &nbsp; One CVPR'19 paper about zero-shot face anti-spoofing is on arXiv.
+* [2019/03/22] &nbsp; Submit one paper to ICCV 2019.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<br/>
 
-**Markdown generator**
+<!--
+Research Highlights
+======
+<iframe src="https://www.youtube.com/embed/K5_VnSci9uE" 
+    width="200" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<br/>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
+    width="400" 
+    height="225"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<br/>
+--> 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Research
+======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
+      <u>Yaojie Liu</u>, Xiaoming Liu<br/>
+      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2020.<br/>
+      [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
+      [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>On Disentangling Spoof Traces for Generic Face Anti-Spoofing</strong><br/>
+      <u>Yaojie Liu</u>, Joel Stehouwer, Xiaoming Liu<br/>
+      European Conference on Computer Vision (ECCV'20), 2020.<br/>
+      [<a href="https://arxiv.org/pdf/2007.09273.pdf">PDF</a>]
+      [<a href="https://github.com/yaojieliu/ECCV20-STDN">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/cvpr20.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Generic Object Sensor and Spoof Noise Classification, Modeling, and Synthesis</strong><br/>
+      Joel Stehouwer, Amin Jourabloo, <u>Yaojie Liu</u>, Xiaoming Liu<br/>
+      Computer Vision and Pattern Recognition (CVPR'20), 2020.<br/>
+     [<a href="http://cvlab.cse.msu.edu/pdfs/stehouwer_jourabloo_liu_liu_cvpr2020.pdf">PDF</a>]
+     [<a href="http://cvlab.cse.msu.edu/goset-generic-object-dataset.html">Dataset</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Deep Tree Learning for Zero-shot Face Anti-Spoofing</strong><br/>
+      <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
+      Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
+     [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccv18.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Face De-Spoofing: Anti-Spoofing via Noise Modeling</strong><br/>
+      <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu <br/>
+      European Conference on Computer Vision (ECCV'18), 2018 <br/> 
+     [<a href="https://arxiv.org/abs/1807.09968">PDF</a>][<a href="https://yaojieliu.github.io/files/eccv18.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ECCV2018-FaceDeSpoofing">Code+Model</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr18.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Learning Deep Models for Face Anti-Spoofing: Binary or Auxiliary Supervision</strong><br/>
+      <u>Yaojie Liu*</u>, Amin Jourabloo*, Xiaoming Liu<br/>
+      Computer Vision and Pattern Recognition (CVPR'18), 2018.(<font color="red">exhibit @CVPR Demo</font>) <br/>
+     [<a href="https://arxiv.org/abs/1803.11097">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr18.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html">Dataset</a>][<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Demo</a>][<a href="https://msutoday.msu.edu/feature/2018/unlocking-new-possibilities-for-biometrics">News</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_iccvw17.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Dense Face Alignment</strong><br/>
+      <u>Yaojie Liu</u>, Amin Jourabloo, William Ren, Xiaoming Liu<br/>
+      International Conference on Computer Vision (ICCVW'17) Workshops (AMFG), 2017<br/> 
+     [<a href="https://arxiv.org/abs/1709.01442">PDF</a>][<a href="https://yaojieliu.github.io//files/iccvw17.pdf">Poster</a>][<a href="https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment">Code</a>][<a href="https://youtu.be/GjwpvHKHf9U">Demo</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_ijcb17.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Face Anti-Spoofing Using Patch and Depth-Based CNNs</strong><br/>
+      <u>Yaojie Liu*</u>, Yousef Atoum*, Amin Jourabloo*, Xiaoming Liu<br/>
+      International Joint Conference on Biometrics (IJCB'17), 2017<br/> 
+     [<a href="http://cvlab.cse.msu.edu/pdfs/FaceAntiSpoofingUsingPatchandDepthBasedCNNs.pdf">PDF</a>][<a href="https://yaojieliu.github.io/files/ijcb17.pdf">Poster</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccvw16.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Fast and Precise Face Alignment and 3D Shape Reconstruction from a Single 2D Image</strong><br/>
+      Ruiqi Zhao, Yan Wang, C. Fabian Benitez-Quiroz, <u>Yaojie Liu</u>, Aleix M. Martinez<br/>
+      European Conference on Computer Vision Workshop (ECCVW'16), 2016<br/> 
+     [<a href="https://www.researchgate.net/publication/307513080_Fast_and_Precise_Face_Alignment_and_3D_Shape_Reconstruction_from_a_Single_2D_Image">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_inpaint.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>A Comparison of Image Inpainting Techniques</strong><br/>
+      <u>Yaojie Liu</u>, Chang Shu<br/>
+      Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
+     [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1">Link</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_hand.png">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Dynamic Gesture Localization and Recognition Algorithm Based on Skeletonization</strong><br/>
+      <u>Yaojie Liu</u>, Chang Shu, Zhizhong Fu<br/>
+      Electronic Science and Technology, 2014<br/> 
+     [<a href="http://en.cnki.com.cn/Article_en/CJFDTOTAL-DZKK201403005.htm">Link</a>]
+    </p>
+  </div>
+</div>
+
+
+<br/>
+
+Personal
+======
+I've been snowboarding since 2014 and training Brazilian Jiu-jitsu (柔術) since 2013.<br/>
+I also love traveling, climbing, hiking and many other outdoor activities.<br/>
+I cook hometown food when I'm homesick.<br/>
+I have a beagle and her name is Bagel.<br/>
+<img src="https://yaojieliu.github.io/images/bagel.jpg?raw=true" alt="Photo" style="width: 60%;" align="center"/>
+
+[Fun about CV/ML](https://yaojieliu.github.io/fun)
