@@ -52,7 +52,7 @@ Recent research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
+    <img align="left" width="20%" src="https://yaojieliu.github.io/images/pami20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -70,7 +70,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+    <img align="left" width="20%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -88,7 +88,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
+    <img align="left" width="20%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
