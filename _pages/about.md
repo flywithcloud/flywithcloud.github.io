@@ -84,23 +84,6 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
-      Shuang Deng, <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
-      Accepted by ICME, 2021. (AR=30%)<br/>
-     [<a href="https://flywithcloud.github.io/files/ICME2021.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
     <img align="left" width="20%" src="https://flywithcloud.github.io/images/CVPR2021.jpg">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -110,6 +93,23 @@ ___
       <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
       Accepted by ICME, 2021. (AR=30%)<br/>
      [<a href="https://flywithcloud.github.io/files/CVPR2021.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
+      Shuang Deng, <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Accepted by ICME, 2021. (AR=30%)<br/>
+     [<a href="https://flywithcloud.github.io/files/ICME2021.pdf">PDF</a>]
     </p>
   </div>
 </div>
