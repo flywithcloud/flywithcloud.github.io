@@ -16,14 +16,10 @@ My current research interests generally focus on zero-shot learning, domain gene
 
 News
 ======
-* [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
-* [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
-* [2020/01/15] &nbsp; I give a talk at Sichuan University.
+* [2021/03/10] &nbsp; One paper is accepted in ICME 2021.
+* [2021/03/01] &nbsp; One paper is accepted in CVPR 2021.
+<!--
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
-* [2019/06/22] &nbsp; I write a [tutorial](https://github.com/yaojieliu/dataset-watchdog) on dataset access management via Google Forms/Spreadsheet.
-* [2019/06/18] &nbsp; Our paper "Deep Tree Learning for Zero-shot Face Anti-Spoofing" is the best paper finalist in CVPR 2019.
-* [2019/05/24] &nbsp; [SiW Database](http://cvlab.cse.msu.edu/siw-spoof-in-the-wild-database.html) now is open to industrial institutes for research purposes.
-* [2019/04/15] &nbsp; One paper accepted to CVPR 2019 as Oral Presentation.
 * [2019/04/05] &nbsp; One CVPR'19 paper about zero-shot face anti-spoofing is on arXiv.
 * [2019/03/22] &nbsp; Submit one paper to ICCV 2019.
 
