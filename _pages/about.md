@@ -84,14 +84,31 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/icme2021.jpg">  
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
       Shuang Deng, <u>Yaojie Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
-      Accepted by ICME, 2021. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
+      Accepted by ICME, 2021. (AR=30%)<br/>
+     [<a href="https://flywithcloud.github.io/files/ICME2021.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
+      Shuang Deng, <u>Yaojie Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Accepted by ICME, 2021. (AR=30%)<br/>
      [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
     </p>
   </div>
