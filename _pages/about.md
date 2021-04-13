@@ -52,6 +52,57 @@ Recent research
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/CVPR2021.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning</strong><br/>
+      <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Accepted by CVPR, 2021. (AR=27%)<br/>
+     [<a href="https://flywithcloud.github.io/files/CVPR2021.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
+      Shuang Deng, <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Accepted by ICME, 2021. (AR=30%)<br/>
+     [<a href="https://flywithcloud.github.io/files/ICME2021.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/AAAI2020.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Zero-Shot Learning from Adversarial Feature Residual to Compact Visual Feature</strong><br/>
+      <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Accepted by AAAI, 2020. (AR=20.6%)<br/>
+     [<a href="https://flywithcloud.github.io/files/AAAI2020.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="20%" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -84,32 +135,14 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg?raw=true">  
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/IJCAI2021.jpg">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
-      Shuang Deng, <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
-      Accepted by ICME, 2021. (AR=30%)<br/>
-     [<a href="https://flywithcloud.github.io/files/ICME2021.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/CVPR2021.jpg?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning</strong><br/>
+      <strong>Segmenting 3D Hybrid Scenes via Zero-Shot Learning</strong><br/>
       <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
-      Accepted by ICME, 2021. (AR=30%)<br/>
-     [<a href="https://flywithcloud.github.io/files/CVPR2021.pdf">PDF</a>]
+      Under review in IJCAI, 2021.<br/>
     </p>
   </div>
 </div>
@@ -118,15 +151,14 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg">  
+    <img align="left" width="20%" src="https://flywithcloud.github.io/images/TIP2021.jpg">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Rotation Transformation Network: Learning View-Invariant Point Cloud for Classification and Segmentation</strong><br/>
-      Shuang Deng, <u>Yaojie Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
-      Accepted by ICME, 2021. (AR=30%)<br/>
-     [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
+      <strong>An Iterative Co-Training Transductive Framework for Zero Shot Learning</strong><br/>
+      <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
+      Under review in TIP, 2021.<br/>
     </p>
   </div>
 </div>
@@ -143,4 +175,4 @@ Personal
 ======
 I have broad interests in reading about philosophy/history/economics.<br/>
 I also love traveling, hiking and many other outdoor activities. Some recent travelling photos are shown below<br/>
-<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 300;" align="center"/>
+<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 30%;" align="center"/>
