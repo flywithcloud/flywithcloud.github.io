@@ -81,7 +81,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
+    <img align="left" width="15%" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -89,7 +89,6 @@ ___
       <strong>Semantic-diversity transfer network for generalized zero-shot learning via inner disagreement based OOD detector</strong><br/>
       <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
       Under review in Knowledge based system, 2021.<br/>
-      [<a href="https://flywithcloud.github.io/files/AAAI2020.pdf">PDF</a>]
     </p>
   </div>
 </div>
