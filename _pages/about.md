@@ -84,7 +84,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg">  
+    <img align="left" width="25%" src="https://flywithcloud.github.io/images/ICME2021.jpg">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
