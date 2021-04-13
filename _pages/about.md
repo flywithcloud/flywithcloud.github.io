@@ -52,7 +52,7 @@ Recent research
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="100" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
+    <img align="left" width="30%" src="https://flywithcloud.github.io/images/KBS2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -68,7 +68,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="50%" src="https://flywithcloud.github.io/images/ICCV2021.jpg?raw=true">  
+    <img align="left" width="30%" src="https://flywithcloud.github.io/images/ICCV2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
