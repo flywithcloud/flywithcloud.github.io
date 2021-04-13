@@ -16,12 +16,12 @@ My current research interests generally focus on zero-shot learning, domain gene
 
 News
 ======
+* [2021/03/26] &nbsp; One paper is submitted to Knowledge based system, wish me luck.
+* [2021/03/18] &nbsp; One paper is submitted to ICCV 2021, wish me good luck.
 * [2021/03/10] &nbsp; One paper is accepted in ICME 2021.
 * [2021/03/01] &nbsp; One paper is accepted in CVPR 2021.
-<!--
-* [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
-* [2019/04/05] &nbsp; One CVPR'19 paper about zero-shot face anti-spoofing is on arXiv.
-* [2019/03/22] &nbsp; Submit one paper to ICCV 2019.
+* [2021/01/20] &nbsp; One paper is submitted to IJCAI 2021, good luck to myself.
+* [2021/01/01] &nbsp; One paper is submitted to TIP, wish me luck.
 
 
 <br/>
@@ -104,8 +104,13 @@ ___
 
 <br/>
 
+Service
+======
+PC Member of AAAI 2021.
+Workshop volunteer of ICPR 2018.
+
 Personal
 ======
-I've been snowboarding since 2014 and training Brazilian Jiu-jitsu (柔術) since 2013.<br/>
-I also love traveling, climbing, hiking and many other outdoor activities.<br/>
-[Fun about CV/ML](https://yaojieliu.github.io/fun)
+I have broad interests in reading about philosophy/history/economics.<br/>
+I also love traveling, hiking and many other outdoor activities. Some recent travelling photos are shown below<br/>
+<img src="https://flywithcloud.github.io/images/travel.jpg?raw=true" alt="Photo" style="width: 60%;" align="center"/>
