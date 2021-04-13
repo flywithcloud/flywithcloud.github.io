@@ -86,7 +86,7 @@ author:
   location         : "Beijing"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "liubo2017@ia.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,19 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@flywithbo"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  resume           : "https://flywithcloud.github.io/files/boliuCV.pdf"
+  resume           : 
 
 
 # Reading Files
