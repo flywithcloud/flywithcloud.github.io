@@ -37,6 +37,7 @@ Research Highlights
 
 <br/>
 
+<!--
 <iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
     width="400" 
     height="225"
@@ -69,7 +70,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
+    <img align="left" width="20%" src="https://yaojieliu.github.io/images/eccv20.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -87,7 +88,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
+    <img align="left" width="20%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_cvpr19.png">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -96,40 +97,6 @@ ___
       <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
       Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
      [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_eccvw16.png">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Fast and Precise Face Alignment and 3D Shape Reconstruction from a Single 2D Image</strong><br/>
-      Ruiqi Zhao, Yan Wang, C. Fabian Benitez-Quiroz, <u>Yaojie Liu</u>, Aleix M. Martinez<br/>
-      European Conference on Computer Vision Workshop (ECCVW'16), 2016<br/> 
-     [<a href="https://www.researchgate.net/publication/307513080_Fast_and_Precise_Face_Alignment_and_3D_Shape_Reconstruction_from_a_Single_2D_Image">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="http://www.cse.msu.edu/~liuyaoj1/images/square/caption_inpaint.png">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>A Comparison of Image Inpainting Techniques</strong><br/>
-      <u>Yaojie Liu</u>, Chang Shu<br/>
-      Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
-     [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1">Link</a>]
     </p>
   </div>
 </div>
