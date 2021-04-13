@@ -48,7 +48,7 @@ Research Highlights
 <br/>
 --> 
 
-Research
+Recent research
 ======
 <div class="row">
   <div class="column left">
@@ -59,7 +59,7 @@ Research
     <p>
       <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.<br/>
+      under review in IEEE TIP, 2020.<br/>
       [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
       [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
     </p>
@@ -77,7 +77,7 @@ ___
     <p>
       <strong>On Disentangling Spoof Traces for Generic Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Joel Stehouwer, Xiaoming Liu<br/>
-      European Conference on Computer Vision (ECCV'20), 2020.<br/>
+      Accepted by CVPR, 2020.<br/>
       [<a href="https://arxiv.org/pdf/2007.09273.pdf">PDF</a>]
       [<a href="https://github.com/yaojieliu/ECCV20-STDN">Code</a>]
     </p>
@@ -95,7 +95,7 @@ ___
     <p>
       <strong>Deep Tree Learning for Zero-shot Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Joel Stehouwer, Amin Jourabloo, Xiaoming Liu<br/>
-      Computer Vision and Pattern Recognition (CVPR'19), 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
+      Accepted by AAAI, 2019. (<font color="red">Oral, Best Paper Finalist</font>)<br/>
      [<a href="https://arxiv.org/abs/1904.02860">PDF</a>][<a href="https://yaojieliu.github.io/files/cvpr19.pdf">Poster</a>][<a href="http://cvlab.cse.msu.edu/siw-m-spoof-in-the-wild-with-multiple-attacks-database.html">Dataset</a>][<a href="https://github.com/yaojieliu/CVPR2019-DeepTreeLearningForZeroShotFaceAntispoofing">Code</a>]
     </p>
   </div>
