@@ -84,22 +84,6 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" src="https://flywithcloud.github.io/images/CVPR2021.jpg">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Hardness Sampling for Self-Training Based Transductive Zero-Shot Learning</strong><br/>
-      <u>Bo Liu</u>, Qiulei Dong, Zhanyi Hu<br/>
-      Accepted by CVPR, 2021.<br/>
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
     <img align="left" width="20%" src="https://flywithcloud.github.io/images/ICME2021.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -135,7 +119,7 @@ ___
 
 Service
 ======
-PC Member of AAAI 2021.
+PC Member of AAAI 2021.<br/>
 Workshop volunteer of ICPR 2018.
 
 Personal
