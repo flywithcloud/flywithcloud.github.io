@@ -10,12 +10,13 @@ redirect_from:
 
 About me
 ======
-Hi, I am currently a fourth-year PhD student at [National Laboratotry of Pattern Recognition](http://nlpr-web.ia.ac.cn/cn/index.html)(NLPR), [Institute of Automation](http://www.ia.cas.cn/), Chinese Academy of Sciences(CASIA), under the supervision of [Zhanyi Hu](http://vision.ia.ac.cn/Faculty/zyhu/index.htm) and co-supervision of [Qiulei Dong](http://vision.ia.ac.cn/Faculty/qldong/index.htm). Previously, I received my B.Eng degree in communication engineering from Wuhan University of Technology in 2017. Here are my CVs [CN](https://flywithcloud.github.io/files/BoLiuCV-CN.pdf) and [EN](https://flywithcloud.github.io/files/BoLiuCV-CN.pdf).
+Hi, I am currently a fourth-year PhD student at [National Laboratotry of Pattern Recognition](http://nlpr-web.ia.ac.cn/cn/index.html)(NLPR), [Institute of Automation](http://www.ia.cas.cn/), Chinese Academy of Sciences(CASIA), under the supervision of [Zhanyi Hu](http://vision.ia.ac.cn/Faculty/zyhu/index.htm). Previously, I received my B.Eng degree in communication engineering from Wuhan University of Technology in 2017. Here are my CVs [CN](https://flywithcloud.github.io/files/BoLiuCV-CN.pdf) and [EN](https://flywithcloud.github.io/files/BoLiuCV-EN.pdf).
 
 My current research interests generally focus on zero-shot learning, domain generalization, generative model, and their applications to vision and multimedia data. I also have broad interests in disentangled representation learning, causal representation learning, self/semi-supervised learning, and bio-inspired deep learning.
 
 News
 ======
+* [2021/04/30] &nbsp; The IJCAI paper got was rejected.
 * [2021/03/26] &nbsp; One paper is submitted to Knowledge based system, wish me luck.
 * [2021/03/18] &nbsp; One paper is submitted to ICCV 2021, wish me good luck.
 * [2021/03/10] &nbsp; One paper is accepted in ICME 2021.
