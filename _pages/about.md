@@ -16,7 +16,7 @@ My current research interests generally focus on zero-shot learning, domain gene
 
 News
 ======
-* [2021/04/30] &nbsp; The IJCAI paper got was rejected.
+* [2021/04/30] &nbsp; The IJCAI paper was rejected.
 * [2021/03/26] &nbsp; One paper is submitted to Knowledge based system, wish me luck.
 * [2021/03/18] &nbsp; One paper is submitted to ICCV 2021, wish me good luck.
 * [2021/03/10] &nbsp; One paper is accepted in ICME 2021.
