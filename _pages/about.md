@@ -16,6 +16,9 @@ My current research interests generally focus on zero-shot learning, domain gene
 
 News
 ======
+* [2021/07/25] &nbsp; The TIP paper was accepted.
+* [2021/07/24] &nbsp; The ICCV paper was rejected.
+* [2021/07/12] &nbsp; The KBS paper was accepted.
 * [2021/04/30] &nbsp; The IJCAI paper was rejected.
 * [2021/03/26] &nbsp; One paper is submitted to Knowledge based system, wish me luck.
 * [2021/03/18] &nbsp; One paper is submitted to ICCV 2021, wish me good luck.
